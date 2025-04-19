@@ -36,5 +36,5 @@
 
 ### **📊 Some of my Stats**
 <img src="https://github-readme-stats.vercel.app/api?username=JorgeLuises&theme=react&show_icons=true&hide_border=true&count_private=true" alt="JorgeLuises's GitHub Stats" align="right"/>
-<img src="https://streak-stats.demolab.com?user=JorgeLuises&theme=react&hide_border=true" alt="JorgeLuises's GitHub Stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeLuises&theme=react&show_icons=true&hide_border=true&layout=compact" alt="JorgeLuises's GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=JorgeLuises&theme=react&hide_border=true" alt="JorgeLuises's GitHub Stats"/>
